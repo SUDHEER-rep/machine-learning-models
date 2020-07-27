@@ -11,4 +11,7 @@
    
 # glasess and stash.py
    this model detect the eyes in real time and attaches spectacles.
+   
+ # blink detection.py
+    this model counts the number of times we blink our eyes in real time face cam.
  
